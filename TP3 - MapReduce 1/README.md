@@ -3,14 +3,21 @@
 -> implementation of MapReduce framework
 
 
-## input 
+
+
+## The input 
+
 
 the file `ventes.txt`, contains some sort of laptops sales list, in this form :
 
 | year | city | product_vendor | price | 
 | ---- | ---- | -------------- | ----- |
 
+
+
+
 ## Output of the Job : `Application1`
+
 
 purpose of this job is to calculate total of sales per city, the output will take the fomat :
 
@@ -18,6 +25,8 @@ purpose of this job is to calculate total of sales per city, the output will tak
 | ---- | ----------- |
 
 take a look on the output in the file `/output1/part-00000` 
+
+
 
 
 ## Output of the Job : `Application2`
