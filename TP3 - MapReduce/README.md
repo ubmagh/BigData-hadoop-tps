@@ -1,4 +1,4 @@
-# MapReduce TP 1
+# MapReduce TP
 
 -> implementation of MapReduce framework
 
