@@ -14,7 +14,7 @@
 	-> exploring Hadoop fileSystem (dfs) using Java Api. 
 
 
-- [TP3](https://github.com/ubmagh/BigData-hadoop-tps/tree/main/TP3%20-%20MapReduce%201)
+- [TP3](https://github.com/ubmagh/BigData-hadoop-tps/tree/main/TP3%20-%20MapReduce)
 	-> some implementations of MapReduce framework with text files.	
 
 
