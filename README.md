@@ -18,3 +18,5 @@
 	-> some implementations of MapReduce framework with text files.	
 
 
+- [TP4](https://github.com/ubmagh/BigData-hadoop-tps/tree/main/TP4%20-%20MapReduce)
+	-> some implementations of MapReduce framework with csv files.	
