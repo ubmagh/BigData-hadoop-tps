@@ -1,0 +1,2 @@
+finance	[ max: { lname='tazi', fname='saad', departement='finance', job='gestionaire', salary=17000.0}, min: { lname='tazi', fname='saad', departement='finance', job='gestionaire', salary=17000.0} ]
+informatique	[ max: { lname='slimani', fname='ahmed', departement='informatique', job='ingénieure', salary=20000.0}, min: { lname='slimani', fname='ahmed', departement='informatique', job='ingénieure', salary=20000.0} ]
