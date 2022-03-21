@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="csv-hadoop" />
+        <module name="csv_hadoop" />
       </profile>
     </annotationProcessing>
   </component>
