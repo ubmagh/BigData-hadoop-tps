@@ -20,3 +20,6 @@
 
 - [TP4](https://github.com/ubmagh/BigData-hadoop-tps/tree/main/TP4%20-%20MapReduce)
 	-> some implementations of MapReduce framework with csv files.	
+	
+- [TP5](https://github.com/ubmagh/KMeans_mri_MapReduce)
+	-> Implementation of Kmeans algorithme on brain MRI image 	
