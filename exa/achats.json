@@ -1,0 +1,10 @@
+
+[
+  {"id": 1,"numC": 1111,"nom":"ahmed","prenom":"krami","tel":"0633445530","type": "haut-standing","surface": 110,"nb_pieces":4,"adresse":"rabat", "ville":"rabat","prix": 900000},
+  {"id": 2,"numC": 1111,"nom":"ahmed","prenom":"krami","tel":"0633445530","type": "moyen-standing","surface": 80,"nb_pieces":3,"adresse":"rabat", "ville":"casablanca","prix": 600000},
+  {"id": 3,"numC": 2222,"nom":"rachid","prenom":"Ahmed","tel":"0754352130","type": "haut-standing","surface": 110,"nb_pieces":4,"adresse":"casablanca", "prix": 900000},
+  {"id": 4,"numC": 3333,"nom":"hajar","prenom":"ahmadi","tel":"06938473230","type": "haut-standing","surface": 110,"nb_pieces":4,"adresse":"casablanca", "ville":"kenitra","prix": 900000},
+  {"id": 5,"numC": 4444,"nom":"said","prenom":"belhaj","tel":"06938473430","type": "haut-standing","surface": 110,"nb_pieces":4,"adresse":"casablanca", "ville":"kentra","prix": 900000},
+  {"id": 6,"numC": 5555,"nom":"hajar","prenom":"said","tel":"06938473230","type": "moyen-standing","surface": 110,"nb_pieces":4,"adresse":"rabat", "ville":"kenitra","prix": 900000},
+  {"id": 7,"numC": 5555,"nom":"hajar","prenom":"said","tel":"06938473230","type": "moyen-standing","surface": 80,"nb_pieces":3,"adresse":"rabat", "ville":"kentra","prix": 600000}
+]
